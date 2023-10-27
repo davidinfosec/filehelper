@@ -43,3 +43,7 @@ The File Organizer Tool is a Python script designed to help you efficiently orga
 This tool is released under the MIT License.
 
 Remember to include any additional information specific to your tool or project. If there are any special instructions, dependencies, or considerations, be sure to mention them in the README.
+
+## Support
+
+Feel like this has been useful? Donate toward my latest projects. https://www.poof.io/tip/@davidinfosec
