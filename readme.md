@@ -9,7 +9,7 @@ The File Organizer Tool is a Python script designed to help you efficiently orga
     Make sure you have Python installed on your system. Run the script using a Python interpreter.
 
     ```bash
-    python help.py
+    python filehelper.py
     ```
 
 2. Enter Paths
