@@ -1,6 +1,6 @@
-# File Organizer Tool
+# File Helper Tool
 
-The File Organizer Tool is a Python script designed to help you efficiently organize files based on their last modification dates. This tool allows you to specify an origin directory and a target directory, and it will move files to subfolders within the target directory, grouped by the year and month of their last modification.
+The File Helper Tool is a Python script designed to help you efficiently organize files based on their last modification dates. This tool allows you to specify an origin directory and a target directory, and it will move files to subfolders within the target directory, grouped by the year and month of their last modification.
 
 ## How to Use
 
