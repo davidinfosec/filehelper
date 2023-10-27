@@ -72,7 +72,7 @@ while True:
 
         # Prompt user if they want to undo the action
         while True:
-            undo = input("Type 'undo' to undo the last action, or press Enter to continue: ")
+            undo = input("Type 'undo' to undo the last action, or type 'ps' to continue: ")
 
             if undo.lower() == 'undo':
                 for target_path, source_path in moved_files:
@@ -88,8 +88,9 @@ while True:
                         print(f"Error removing directory: {e}")
 
                 break  # Exit the loop if the user types 'undo'
-            elif not undo:  # Check if input is empty (user pressed Enter)
+            elif undo.lower() == 'ps':  # Check if input is 'ps'
                 print("Actions not undone. Program completed.")
-                break  # Exit the loop if the user presses Enter
+                break  # Exit the loop if the user types 'ps'
             else:
-                print("Invalid input. Please type 'undo' or press Enter.")
+                print("Invalid input. Please type 'undo' or 'ps'.")
+
