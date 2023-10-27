@@ -30,7 +30,7 @@ The File Helper Tool is a Python script designed to help you efficiently organiz
 
 ## Notes
 
-- The script keeps track of moved files for potential undo. However, keep in mind that once the script is closed, this history is lost.
+- The script keeps track of moved files for potential undo. However, keep in mind that once the script is closed, this history is lost. Proceed with caution and assume files are moved permanently as this is not reliable.
 - Use caution when organizing files, especially in directories with important data. Always make sure you have backups before running the tool.
 
 ## Requirements
