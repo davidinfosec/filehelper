@@ -12,6 +12,8 @@ The File Helper Tool is a Python script designed to help you efficiently organiz
     python filehelper.py
     ```
 
+! [File Helper] (https://i.imgur.com/ZCMrPh4.png)
+
 2. Enter Paths
 
     You will be prompted to enter the origin directory (where your unorganized files are located) and the target directory (where you want the organized files to be moved).
